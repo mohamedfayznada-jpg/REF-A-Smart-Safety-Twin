@@ -1,0 +1,109 @@
+{
+  "zones": [
+    {
+      "id": "ZONE001",
+      "name": "Performance Test Room"
+    },
+    {
+      "id": "ZONE002",
+      "name": "Final Assembly"
+    },
+    {
+      "id": "ZONE003",
+      "name": "Cabinet & Parts Stock"
+    },
+    {
+      "id": "ZONE004",
+      "name": "Cab. Assembly"
+    },
+    {
+      "id": "ZONE005",
+      "name": "Pipe Forming"
+    },
+    {
+      "id": "ZONE006",
+      "name": "Cab. Forming Line (CBF)"
+    },
+    {
+      "id": "ZONE007",
+      "name": "Cabinet Forming"
+    },
+    {
+      "id": "ZONE008",
+      "name": "Parts Stock"
+    },
+    {
+      "id": "ZONE009",
+      "name": "JIG Stock"
+    },
+    {
+      "id": "ZONE010",
+      "name": "D/L Stock"
+    },
+    {
+      "id": "ZONE011",
+      "name": "L/L Stock"
+    },
+    {
+      "id": "ZONE012",
+      "name": "Vacuum Forming"
+    },
+    {
+      "id": "ZONE013",
+      "name": "PCM Store Crane (3T)"
+    },
+    {
+      "id": "ZONE014",
+      "name": "Spare Parts Store"
+    },
+    {
+      "id": "ZONE015",
+      "name": "Maintenance"
+    },
+    {
+      "id": "ZONE016",
+      "name": "SO Store"
+    },
+    {
+      "id": "ZONE017",
+      "name": "Production Control"
+    },
+    {
+      "id": "ZONE018",
+      "name": "QA"
+    },
+    {
+      "id": "ZONE019",
+      "name": "QC"
+    },
+    {
+      "id": "ZONE020",
+      "name": "Parts Room"
+    },
+    {
+      "id": "ZONE021",
+      "name": "Work Area"
+    }
+  ],
+
+ "assemblyPoints": [
+  {
+    "id": "AP001",
+    "name": "Assembly Point (1)"
+  },
+  {
+    "id": "AP002",
+    "name": "Assembly Point (2)"
+  }
+],
+
+"emergencyExits": [],
+
+"fireExtinguishers": [],
+
+"fireAlarms": [],
+
+"fireHoseBoxes": [],
+
+"escapeRoutes": []
+}
