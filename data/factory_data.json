@@ -1,10 +1,10 @@
 {
   "zones": [
-  {
+ {
 "id":"ZONE001",
 "name":"Performance Test Room",
-"x":80,
-"y":15
+"x":15,
+"y":57
 },
 {
 "id":"ZONE002",
