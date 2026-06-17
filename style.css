@@ -97,3 +97,25 @@ body{
 
     left:70%;
 }
+.factory-map{
+    position:relative;
+}
+
+.marker{
+
+    position:absolute;
+
+    background:#00ffff;
+
+    color:black;
+
+    padding:10px;
+
+    border-radius:15px;
+
+    font-weight:bold;
+
+    box-shadow:0 0 20px cyan;
+
+    z-index:999;
+}
