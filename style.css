@@ -41,3 +41,59 @@ body{
     box-shadow:
     0 0 30px cyan;
 }
+.factory-map{
+    position:relative;
+
+    width:95%;
+
+    margin:auto;
+}
+
+.layout-image{
+    width:100%;
+
+    border-radius:20px;
+}
+
+.marker{
+
+    position:absolute;
+
+    background:#00ffff;
+
+    color:black;
+
+    padding:8px 15px;
+
+    border-radius:15px;
+
+    font-size:14px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    box-shadow:
+    0 0 20px cyan;
+
+    transition:.3s;
+}
+
+.marker:hover{
+
+    transform:scale(1.1);
+}
+
+.performance{
+
+    top:10%;
+
+    left:75%;
+}
+
+.assembly{
+
+    top:25%;
+
+    left:70%;
+}
