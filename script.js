@@ -26,7 +26,13 @@ async function loadFactoryData() {
             marker.style.top =
                 zone.y + "%";
 
-            factoryMap.appendChild(marker);
+           marker.addEventListener("click",()=>{
+
+    alert(zone.name);
+
+});
+
+factoryMap.appendChild(marker);
 
         }
 
