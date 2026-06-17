@@ -1,17 +1,17 @@
 {
   "zones": [
-   {
+  {
 "id":"ZONE001",
 "name":"Performance Test Room",
 "x":80,
 "y":15
-}
-  {
+},
+{
 "id":"ZONE002",
 "name":"Final Assembly",
 "x":74,
 "y":27
-}
+},
     {
       "id": "ZONE003",
       "name": "Cabinet & Parts Stock"
